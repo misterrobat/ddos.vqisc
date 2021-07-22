@@ -1,0 +1,19 @@
+salam khedmat shoma doostan gerami
+
+baraye ejraye escript aval terminal ro baz konid  va dastoor haro
+vared konid
+
+# cd Desktop
+
+
+# cd ddos-vqisc
+
+
+# chmod +x vqisc-ddos.py
+
+
+# python vqisc-ddos.py
+
+khob hala ip sit ro vared konid 
+
+hala port ro  80 vared konid ta hamle start beshe
